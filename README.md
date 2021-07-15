@@ -7,7 +7,7 @@ This is page is to regulate the tools and software version for more efficient op
 * Me Hardware
 * ECAD
 * Software
-  * Linux related
+  * [Linux related](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/Software/Linux)
   * Development tools
 * Electrical Hardware
   * [Connector](https://github.com/PolyU-Robocon/IGGG-Connector-Standard)
