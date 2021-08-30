@@ -1,8 +1,10 @@
 # Software
-![image](https://www.kicad.org/img/kicad_logo_small.png)    
+[![image](https://www.kicad.org/img/kicad_logo_small.png)](https://www.kicad.org/download/)   
 [Kicad Download link](https://www.kicad.org/download/)
+Recommeded Verison: KiCad 5.1.10
+
 ## Optional for Kicad  
-![image](https://www.freecadweb.org/svg/logo-freecad.svg)   
+[![image](https://www.freecadweb.org/svg/logo-freecad.svg)](https://www.freecadweb.org/)   
 Some 3D fuction required FreeCAD  
 [Freecad Download link](https://www.freecadweb.org/)    
 # Naming Convention
