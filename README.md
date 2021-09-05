@@ -1,4 +1,4 @@
-![Iggg](https://user-images.githubusercontent.com/45313904/132120763-39a426ff-df9a-4f27-a1f0-eca033b12ac6.png)
+![Iggg](https://user-images.githubusercontent.com/45313904/132120845-3bab59cb-e548-483e-8831-59b33043d306.png)
 
 # IGGG-Standard
 Standard for the BullyU Robotics 
