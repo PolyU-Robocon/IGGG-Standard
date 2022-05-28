@@ -10,5 +10,7 @@
 ![image](https://user-images.githubusercontent.com/45313904/170822358-68f6a1ea-640a-4d28-a905-fdca7f93d1d9.png)
 ### L Shape (2021 proposal)
 ![image](https://user-images.githubusercontent.com/45313904/170822753-18d73926-b59d-4494-ae9e-c0d7d80ac2ac.png)
+#### Dimension
+![image](https://user-images.githubusercontent.com/45313904/170825843-675b1171-9bcc-4cd0-afc3-e88437b826e3.png)
 
 ## 3D part
