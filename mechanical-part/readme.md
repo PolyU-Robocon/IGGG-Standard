@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/45313904/170825843-675b1171-9bcc-4cd0-afc3-e88437b826e3.png)
 
 ## 3D part
+## Pneumatic Part
+### Tube
+6x4mm PU Tube is the only choices
