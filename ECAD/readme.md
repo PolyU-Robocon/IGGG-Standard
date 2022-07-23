@@ -33,7 +33,7 @@ Some 3D fuction required FreeCAD
 | Inductor-SMD-XXX    | Inductor         | SMD Inductor                                      |
 | Resistor-XXX        | Resistor         | Resistor                                          |
 | Cap-XXX             | Capacitor        | Capacitor                                         |
-| Cap-XXX             | Capacitor        | Capacitor                                         |
+| Cap-XXX             | Capacitor        | Capacitor(SMD)                                    |
 | Module-XXX          | PCB Module       | PCB Module(e.g. TJA1050 CAN Module)               |
 | Module-Stepdown-XXX | PCB Module       | Stepdown Power Module                             |
 | Module-RF-XXX       | PCB Module       | RF Module                                         |
