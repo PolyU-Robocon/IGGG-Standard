@@ -8,14 +8,15 @@ Recommeded Verison: KiCad 5.1.10
 Some 3D fuction required FreeCAD  
 [Freecad Download link](https://www.freecadweb.org/)    
 # Naming Convention
+The Alitum online library also follow this naming
 | Name                | Type             | Description                                       |
 |---------------------|------------------|---------------------------------------------------|
 | Switch-XXX          | Switch           | Electrical Switch(includes push-button)           |
-| SolidSateRelay-XXX  | Relay            | Solid Sate Relay                                  |
+| Relay-SolidSate-XXX | Relay            | Solid Sate Relay                                  |
 | Relay-XXX           | Relay            | Relay                                             |
 | Shunt-XXX           | Resistor, Power  | Shunt Resistor                                    |
 | Diode-XXX           | Diode            | Diode Related                                     |
-| SchottkyDiode-XXX   | Diode, Power     | Schottky Diode                                    |
+| Diode-Schottky-XXX  | Diode, Power     | Schottky Diode                                    |
 | LED-XXX             | Diode            | LED related                                       |
 | Buzzer-XXX          | Buzzer           | Buzzer                                            |
 | Regulator-XXX       | Regulator, Power | Regulator(e.g. LDO)                               |
@@ -25,8 +26,9 @@ Some 3D fuction required FreeCAD
 | ESD-XXX             | ESD Protection   | ESD Protection Related                            |
 | Isolator-XXX        | Isolation        | Isolation Related                                 |
 | Isolator-DCDC-XXX   | Isolation, Power | Isolated DC-to-DC                                 |
-| Isolator-OPTO-XXX   | Isolation        | Optocoupler                                       |
-| Isolator-I2C-XXX    | Isolation        | Isolated I2C                                      |
+| Isolator-OPTO-XXX   | Isolation, GPIO  | Optocoupler                                       |
+| Isolator-I2C-XXX    | Isolation, IC2   | Isolated I2C                                      |
+| Isolator-CAN-XXX    | Isolation, CAN   | Isolated I2C                                      |
 | Inductor-XXX        | Inductor         | Inductor                                          |
 | Inductor-Common-XXX | Inductor         | Common Mode Inductor                              |
 | Inductor-Ironcore   | Inductor         | Iron Core Inductor                                |
@@ -38,12 +40,14 @@ Some 3D fuction required FreeCAD
 | Module-Stepdown-XXX | PCB Module       | Stepdown Power Module                             |
 | Module-RF-XXX       | PCB Module       | RF Module                                         |
 | Module-I2C-XXX      | PCB Module       | I2C Module                                        |
-| MCU-XXX             | MCU Module       | MCU Development Board(e.g. STM32 Nucleo broad)    |
+| Module-MCU-XXX      | MCU Module       | MCU Development Board(e.g. STM32 Nucleo broad)    |
+| MCU-XXX             | MCU Module       | MCU Development Board(e.g. prue eps32 with USB)   |
 | Connector-XXX       | Connector        | Connector Related                                 |
 | Connector-USB-XXX   | Connector, USB   | USB Connector Related                             |
 | Connector-RJ45-XXX  | Connector, RJ45  | RJ45 Connector Related                            |
 | Chip-XXX            | Chip level       | ICs, Chip level stuff                             |
 | Chip-CAN-XXX        | Chip level, CAN  | CAN bus related IC                                |
+| Chip-MCU-XXX        | Chip level, MCU  | Chip level MCU chip(STMC8T6, ATMega328p)          |
 | Fuse-XXX            | Fuse             | Fuse                                              |
 | BladeFuse-XXX       | Fuse             | Blade Fuse                                        |
 | PCB-XXX             | PCB Special      | PCB Special Component(e.g. Vias array, Break Tab) |
