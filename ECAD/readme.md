@@ -43,8 +43,10 @@ The Alitum online library also follow this naming
 | Module-MCU-XXX      | MCU Module       | MCU Development Board(e.g. STM32 Nucleo broad)    |
 | MCU-XXX             | MCU Module       | MCU Development Board(e.g. prue eps32 with USB)   |
 | Connector-XXX       | Connector        | Connector Related                                 |
+| Connector-CAN-XXX   | Connector, CAN   | CAN Connector Related                             |
+| Connector-HDMI-XXX  | Connector, HDMI  | HMDI Connector Related                            |
 | Connector-USB-XXX   | Connector, USB   | USB Connector Related                             |
-| Connector-RJ45-XXX  | Connector, RJ45  | RJ45 Connector Related                            |
+| Connector-RJ45-XXX  | Connector, RJ45  | RJ45(for real TCP/IP) Connector Related           |
 | Chip-XXX            | Chip level       | ICs, Chip level stuff                             |
 | Chip-CAN-XXX        | Chip level, CAN  | CAN bus related IC                                |
 | Chip-MCU-XXX        | Chip level, MCU  | Chip level MCU chip(STMC8T6, ATMega328p)          |
