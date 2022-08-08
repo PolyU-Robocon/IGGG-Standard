@@ -53,4 +53,5 @@ The Alitum online library also follow this naming
 | Fuse-XXX            | Fuse             | Fuse                                              |
 | BladeFuse-XXX       | Fuse             | Blade Fuse                                        |
 | PCB-XXX             | PCB Special      | PCB Special Component(e.g. Vias array, Break Tab) |
+| Mechanical-XXX      | Screw Hole       | Screw hole stuff like that                        |
 |                     |                  |                                                   |
