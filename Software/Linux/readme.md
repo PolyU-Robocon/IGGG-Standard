@@ -6,8 +6,8 @@ For robocon, we will only use **ubuntu**
 normally, we recommend Ubuntu 18.04 (server/ desktop both ok)
 (unless the hardware you use only supports a specific version of OS)
 
-2021/2022 Robocon is Ubuntu 18.04 with ROS Melodic
-2022/2023 Robocon is Ubuntu 20.04 with ROS Noetic
+2021/2022 Robocon is Ubuntu 18.04 with ROS Melodic  
+2022/2023 Robocon is Ubuntu 20.04 with ROS Noetic  
 
 ## kernel
 the kernel version that work 
