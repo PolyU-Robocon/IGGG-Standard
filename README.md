@@ -11,5 +11,5 @@ This is page is to regulate the tools and software version for more efficient op
 * Software
   * [Linux related](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/Software/Linux)
   * Development tools
-* Electrical Hardware
+* [Electrical Hardware](//Electrical%20Hardware/README.md)
   * [Connector](https://github.com/PolyU-Robocon/IGGG-Connector-Standard)
