@@ -13,3 +13,6 @@ This is page is to regulate the tools and software version for more efficient op
   * Development tools
 * [Electrical Hardware](//Electrical%20Hardware/README.md)
   * [Connector](https://github.com/PolyU-Robocon/IGGG-Connector-Standard)
+
+# Readme Standard
+Please follow [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
