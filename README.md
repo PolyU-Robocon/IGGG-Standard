@@ -5,9 +5,10 @@ The standard for the PolyU Robotics
 This page is to regulate the tools and software version for more efficient operation in PolyU Robotics Team.
 
 # Index
-* [MCAD](https://github.com/PolyU-Robocon/IGGG-Standard/blob/main/MCAD/readme.md)
+* CAD
+  * [MCAD](https://github.com/PolyU-Robocon/IGGG-Standard/blob/main/MCAD/readme.md)
+  * [ECAD](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/ECAD)
 * [Mechanical Hardware](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/mechanical-part)
-* [ECAD](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/ECAD)
 * Software
   * [Linux related](https://github.com/PolyU-Robocon/IGGG-Standard/tree/main/Software/Linux)
   * Development tools
