@@ -1,4 +1,10 @@
 # Color and Icon Standard 
+## Robotics Club Icon for 2023-2024
+Lordcrops Stencil  
+<img width="324" alt="image" src="https://github.com/PolyU-Robocon/IGGG-Standard/assets/45313904/f2b5bcdc-e252-4ace-ba18-6b2bb7a2c879">
+
+
+
 ## Robotics Club Icon for 2021-2022 
 ![roboconIcon](https://user-images.githubusercontent.com/45313904/142733081-d5c96d8e-38bf-4233-a97a-8e6d16fd7ac4.png)
 
