@@ -3,6 +3,9 @@
 Lordcrops Stencil  
 <img width="324" alt="image" src="https://github.com/PolyU-Robocon/IGGG-Standard/assets/45313904/f2b5bcdc-e252-4ace-ba18-6b2bb7a2c879">
 
+in some personal project 
+* 爆北魏體 Black (BlowUpFont)
+* Senty Caramel
 
 
 ## Robotics Club Icon for 2021-2022 
